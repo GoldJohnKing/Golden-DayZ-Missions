@@ -1,3 +1,5 @@
+#include "$CurrentDir:mpmissions/ExpansionRegular.namalsk/eAI/AI_init.c" // Edited: Add eAI support
+
 void main()
 {
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
@@ -37,6 +39,8 @@ void main()
 			}
 		}
 	}
+	
+	InitDynamicPatrols(); // Edited: Add eAI support
 }
 
 class CustomMission: MissionServer
