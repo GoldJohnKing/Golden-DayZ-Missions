@@ -101,5 +101,11 @@
 			<item name="herdsCount" val="0" />
 		</territory>
 
+		<!-- Edited: Add DayZ-Dog -->
+		<file path="env/dog_territories.xml" />
+
+		<territory type="Herd" name="WildDog" behavior="DZWolfGroupBeh">
+			<file usable="dog_territories" />
+		</territory>
 	</territories>
 </env>

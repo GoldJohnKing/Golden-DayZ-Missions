@@ -1246,4 +1246,6 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+	<!-- Edited: Add DayZ-Dog -->
+	<event name="AnimalWildDog" />
 </eventposdef>
