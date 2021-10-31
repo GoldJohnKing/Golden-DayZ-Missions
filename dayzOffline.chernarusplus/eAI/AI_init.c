@@ -242,7 +242,7 @@ class CustomPatrol : eAIDynamicPatrol {
 		patrol.SetFaction(new eAIFactionEast());
 		
 		// Uncomment this line to slow down or speed up the patrol (1.0 to 3.0)
-		patrol.SetSpeedLimit(0.75);
+		patrol.SetSpeedLimit(1.0);
 	}
 	override void OnUnitSpawn(eAIBase unit) {
 		// Uncomment this to give the AI unlimited magazines (new one is added on reload)
