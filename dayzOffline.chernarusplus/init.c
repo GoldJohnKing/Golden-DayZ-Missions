@@ -1,4 +1,4 @@
-#include "$CurrentDir:mpmissions/ExpansionRegular.namalsk/eAI/AI_init.c" // Edited: Add eAI support
+#include "$CurrentDir:mpmissions/dayzOffline.chernarusplus/eAI/AI_init.c" // Edited: Add eAI support
 
 void main()
 {
