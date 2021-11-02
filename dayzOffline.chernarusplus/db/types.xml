@@ -21552,10 +21552,10 @@
         <usage name="Coast" />
     </type>
     <type name="Msp_BeachUmbrella">
-        <nominal>5</nominal>
-        <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>1</min>
+        <nominal>10</nominal> <!-- Edited: Increase umbrella maximum amount, default = 5 -->
+        <lifetime>3888000</lifetime> <!-- Edited: Increase umbrella lifetime, default = 2700 -->
+        <restock>43200</restock> <!-- Edited: Increase umbrella restock duration, default = 0 -->
+        <min>3</min> <!-- Edited: Increase umbrella minimum amount, default = 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
