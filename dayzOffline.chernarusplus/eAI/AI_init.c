@@ -228,8 +228,8 @@ ref array<array<vector>> patrol_list = {patrol_1, patrol_2, patrol_3, patrol_4, 
 
 // you may change these quantities
 // const int NUMBER_PER_PATROL = 2;	// Number of AI per patrol
-const int MIN_NUMBER_PER_PATROL = 1;// Min Number of AI per patrol
-const int MAX_NUMBER_PER_PATROL = 4;// Max Number of AI per patrol
+const int MIN_NUMBER_PER_PATROL = 4;// Min Number of AI per patrol
+const int MAX_NUMBER_PER_PATROL = 8;// Max Number of AI per patrol
 const int MAXR = 1200;				// This is the main spawn radius- how close a player needs to be to spawn them in.
 const int MINR = 300;				// If a player is this close to the patrol start point, it is too close for them to spawn
 const int DESPAWNR = 1500;			// If all players are this far away, they despawn.
