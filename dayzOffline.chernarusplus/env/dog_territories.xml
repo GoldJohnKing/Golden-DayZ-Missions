@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- Edited: Add DayZ Dog -->
 <territory-type>
     <territory color="3556750600">
         <zone name="Zone_dog" smin="0" smax="0" dmin="0" dmax="0" x="11213.5" z="6586.0" r="135" />

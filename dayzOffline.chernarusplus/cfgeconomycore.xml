@@ -39,6 +39,31 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="TraderPlus_ce">
 		<file name="TraderPlus_types.xml" type="types" />
 	</ce>
+	<!-- Edited: Add Code Lock -->
+	<ce folder="Mod_ce">
+		<file name="CodeLock_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add DayZ Dog -->
+	<ce folder="Dog_ce">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+	</ce>
+	<!-- Edited: Add DayZ Navigation -->
+	<ce folder="Mod_ce">
+		<file name="DayzNavigation_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add Furniture Kits -->
+	<ce folder="Mod_ce">
+		<file name="FurnitureKits_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add MuchStuffPack -->
+	<ce folder="Mod_ce">
+		<file name="MuchStuffPack_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add Treasure Mod -->
+	<ce folder="Mod_ce">
+		<file name="Treasure_types.xml" type="types" />
+	</ce>
 	<!-- Edited: Add Morty Weapons -->
 	<!-- 
 	<ce folder="Morty_ce">
