@@ -35,10 +35,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 
-	<!-- Edited: Add Trader Plus -->
-	<ce folder="TraderPlus_ce">
-		<file name="TraderPlus_types.xml" type="types" />
-	</ce>
 	<!-- Edited: Add Code Lock -->
 	<ce folder="Mod_ce">
 		<file name="CodeLock_types.xml" type="types" />
@@ -48,14 +44,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types.xml" type="types" />
 		<file name="events.xml" type="events" />
 	</ce>
-	<!-- Edited: Add DayZ Navigation -->
-	<ce folder="Mod_ce">
-		<file name="DayzNavigation_types.xml" type="types" />
-	</ce>
-	<!-- Edited: Add Furniture Kits -->
-	<ce folder="Mod_ce">
-		<file name="FurnitureKits_types.xml" type="types" />
-	</ce>
 	<!-- Edited: Add MuchStuffPack -->
 	<ce folder="Mod_ce">
 		<file name="MuchStuffPack_types.xml" type="types" />
@@ -64,11 +52,23 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="Mod_ce">
 		<file name="Treasure_types.xml" type="types" />
 	</ce>
+	<!-- Edited: Add Free Helicopters -->
+	<ce folder="Mod_ce">
+		<file name="FreeHelicopters_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add CZLCreepyDoll -->
+	<ce folder="Mod_ce">
+		<file name="CZLCreepyDoll_types.xml" type="types" />
+	</ce>
 	<!-- Edited: Add Morty Weapons -->
-	<!-- 
 	<ce folder="Morty_ce">
 		<file name="Morty_types.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
 	</ce>
-	-->
+	<!-- Edited: Add Creepy Zombies -->
+	<ce folder="CreepyZombies_ce">
+		<file name="types.xml" type="types" />
+		<file name="cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="events.xml" type="events" />
+	</ce>
 </economycore>
