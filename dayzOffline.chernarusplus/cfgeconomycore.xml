@@ -56,19 +56,13 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="Mod_ce">
 		<file name="FreeHelicopters_types.xml" type="types" />
 	</ce>
-	<!-- Edited: Add CZLCreepyDoll -->
+	<!-- Edited: Add KeyCard Rooms -->
 	<ce folder="Mod_ce">
-		<file name="CZLCreepyDoll_types.xml" type="types" />
+		<file name="KeyCardRooms_types.xml" type="types" />
 	</ce>
 	<!-- Edited: Add Morty Weapons -->
 	<ce folder="Morty_ce">
 		<file name="Morty_types.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
-	</ce>
-	<!-- Edited: Add Creepy Zombies -->
-	<ce folder="CreepyZombies_ce">
-		<file name="types.xml" type="types" />
-		<file name="cfgspawnabletypes.xml" type="spawnabletypes" />
-		<file name="events.xml" type="events" />
 	</ce>
 </economycore>
