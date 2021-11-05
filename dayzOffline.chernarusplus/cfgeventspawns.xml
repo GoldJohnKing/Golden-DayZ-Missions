@@ -1250,4 +1250,6 @@
 	<event name="AnimalWildDog" />
 	<!-- Edited: Add Free Helicopters -->
 	<event name="VehicleHelispawn1" />
+	<!-- Edited: Add Zombie Animals -->
+	<event name="Zombie_Wolf" />
 </eventposdef>

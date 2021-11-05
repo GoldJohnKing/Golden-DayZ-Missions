@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+    <!-- Edited: Add Zombie Animals -->
     <type name="Zombie_Wolf1">
         <nominal>1</nominal>
         <lifetime>1800</lifetime>

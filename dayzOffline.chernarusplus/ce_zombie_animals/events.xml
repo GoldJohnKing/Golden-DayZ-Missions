@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+    <!-- Edited: Add Zombie Animals -->
     <event name="Zombie_Wolf">
         <nominal>11</nominal>
         <min>5</min>
