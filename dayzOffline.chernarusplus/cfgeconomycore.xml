@@ -74,9 +74,4 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ce_others">
 		<file name="Treasure_types.xml" type="types" />
 	</ce>
-	<!-- Edited: Add Zombie Animals -->
-	<ce folder="ce_zombie_animals">
-		<file name="types.xml" type="types" />
-		<file name="events.xml" type="events" />
-	</ce>
 </economycore>
