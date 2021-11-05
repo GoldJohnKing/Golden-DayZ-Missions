@@ -35,34 +35,39 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 	</defaults>
 
-	<!-- Edited: Add Code Lock -->
-	<ce folder="Mod_ce">
-		<file name="CodeLock_types.xml" type="types" />
-	</ce>
 	<!-- Edited: Add DayZ Dog -->
-	<ce folder="Dog_ce">
+	<ce folder="ce_dog">
 		<file name="types.xml" type="types" />
 		<file name="events.xml" type="events" />
 	</ce>
+	<!-- Edited: Add Free Helicopters -->
+	<ce folder="ce_heli">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+	</ce>
+	<!-- Edited: Add Morty Weapons -->
+	<ce folder="ce_morty">
+		<file name="Morty_types.xml" type="types" />
+		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	<!-- Edited: Add Animal Pack -->
+	<ce folder="ce_others">
+		<file name="AnimalPack_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add Code Lock -->
+	<ce folder="ce_others">
+		<file name="CodeLock_types.xml" type="types" />
+	</ce>
+	<!-- Edited: Add KeyCard Rooms -->
+	<ce folder="ce_others">
+		<file name="KeyCardRooms_types.xml" type="types" />
+	</ce>
 	<!-- Edited: Add MuchStuffPack -->
-	<ce folder="Mod_ce">
+	<ce folder="ce_others">
 		<file name="MuchStuffPack_types.xml" type="types" />
 	</ce>
 	<!-- Edited: Add Treasure Mod -->
-	<ce folder="Mod_ce">
+	<ce folder="ce_others">
 		<file name="Treasure_types.xml" type="types" />
-	</ce>
-	<!-- Edited: Add Free Helicopters -->
-	<ce folder="Mod_ce">
-		<file name="FreeHelicopters_types.xml" type="types" />
-	</ce>
-	<!-- Edited: Add KeyCard Rooms -->
-	<ce folder="Mod_ce">
-		<file name="KeyCardRooms_types.xml" type="types" />
-	</ce>
-	<!-- Edited: Add Morty Weapons -->
-	<ce folder="Morty_ce">
-		<file name="Morty_types.xml" type="types" />
-		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 </economycore>

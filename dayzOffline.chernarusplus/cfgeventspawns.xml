@@ -1248,4 +1248,6 @@
     <event name="AnimalWildBoar" />
 	<!-- Edited: Add DayZ-Dog -->
 	<event name="AnimalWildDog" />
+	<!-- Edited: Add Free Helicopters -->
+	<event name="VehicleHelispawn1" />
 </eventposdef>
