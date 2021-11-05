@@ -68,7 +68,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</ce>
 	<!-- Edited: Add Radioactive Animals -->
 	<ce folder="ce_others">
-		<file name="events.xml" type="events" />
+		<file name="RadioactiveAnimals_events.xml" type="events" />
 	</ce>
 	<!-- Edited: Add Treasure Mod -->
 	<ce folder="ce_others">
