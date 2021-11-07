@@ -2,9 +2,9 @@
 <events>
     <!-- Edited: Add Free Helicopters -->
     <event name="VehicleHelispawn1">
-        <nominal>10</nominal>
-        <min>17</min>
-        <max>23</max>
+        <nominal>30</nominal> <!-- Edited: Increase helicopeter amount, default = 10 -->
+        <min>15</min> <!-- Edited: Increase helicopeter amount, default = 17 -->
+        <max>45</max> <!-- Edited: Increase helicopeter amount, default = 23 -->
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
