@@ -54,6 +54,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ce_others">
 		<file name="AnimalPack_types.xml" type="types" />
 	</ce>
+	<!-- Edited: Add BaseBuildingPlus -->
+	<ce folder="ce_others">
+		<file name="BaseBuildingPlus_types.xml" type="types" />
+	</ce>
 	<!-- Edited: Add Code Lock -->
 	<ce folder="ce_others">
 		<file name="CodeLock_types.xml" type="types" />
