@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Edited: Add Radioactive Animals -->
-<territory-type>
-    <territory color="4291611852">
-        <zone name="AnimalRadioactiveWolf" smin="0" smax="1" dmin="3" dmax="6" x="1769.19" z="13842.29" r="70" d="2"/>
-        <zone name="AnimalRadioactiveWolf" smin="0" smax="1" dmin="3" dmax="6" x="1525.75" z="13609.69" r="70" d="2"/>
-        <zone name="AnimalRadioactiveWolf" smin="0" smax="1" dmin="3" dmax="6" x="1463.63" z="14432.03" r="70" d="2"/>
-    </territory>
-</territory-type>

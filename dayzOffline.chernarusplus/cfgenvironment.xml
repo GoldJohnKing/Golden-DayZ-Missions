@@ -107,15 +107,5 @@
 			<file usable="dog_territories" />
 		</territory>
 
-		<!-- Edited: Add Radioactive Animals -->
-		<file path="env/radioactive_wolf_territories.xml" />
-		<file path="env/radioactive_bear_territories.xml" />
-		<territory type="Herd" name="RadioactiveWolf" behavior="DZWolfGroupBeh">
-			<file usable="radioactive_wolf_territories"/>
-		</territory>
-		<territory type="Herd" name="RadioactiveBear" behavior="BlissBearGroupBeh">
-			<file usable="radioactive_bear_territories"/>
-		</territory>
-
 	</territories>
 </env>
