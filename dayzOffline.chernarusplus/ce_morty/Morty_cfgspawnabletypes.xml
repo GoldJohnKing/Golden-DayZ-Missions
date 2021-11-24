@@ -816,4 +816,41 @@
 			<item name="TTC_TAVOR_Magazine_30rnd" chance="0.50" />
 		</attachments>
 	</type>
+	<!-- Update 1.15 -->
+	<type name="TTC_HK416Comp">
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TTC_MCX_Spear">
+		<attachments chance="1.00">
+			<item name="TTC_Elcan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTC_MPXMCXSPEAR_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTC_MCX_Spear_Suppressor" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="TTC_MK18">
+		<attachments chance="1.00">
+			<item name="TTC_Elcan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+	</type>
 </spawnabletypes>
